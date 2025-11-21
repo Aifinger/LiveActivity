@@ -1,0 +1,5 @@
+{
+  "name": "Island Pet - Dynamic Island Companion",
+  "description": "A React-based simulation of an iOS Dynamic Island featuring a live, interactive pixel pet. Features AI-powered chat, expansion states, and smooth spring animations mimicking iOS physics.",
+  "requestFramePermissions": []
+}
